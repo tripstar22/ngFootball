@@ -1,0 +1,19 @@
+<div class="heroWrap">
+	<h1>{{title}}</h1>
+
+	<h2>Dropdown Filters:</h2>
+
+	<select id="selectGroup" [(ngModel)]="componentdataInstantiate">
+	    <option *ngFor="let f of filters" [value]="f.filteroption">{{f.filteroption}}</option>
+	</select>
+</div>
+
+<div class="summaryWrap">
+	<div class="innerWrap">
+		<h2>Dropdown Summary&#58;</h2>
+
+		<p class="filter">Filter&#58; {{componentdataInstantiate}}</p>
+
+		<app-group-info [filterAttr]='componentdataInstantiate'></app-group-info>
+	</div>
+</div>

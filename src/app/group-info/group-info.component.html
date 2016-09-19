@@ -1,0 +1,18 @@
+
+<div class="row">
+	<div class="columns-3" *ngFor="let object of (list | GroupInfoPipe: filterAttr)">
+		<div class="card">
+			<h3>{{object.school}} {{object.nickname}}</h3>
+			<ul>
+				<li><span>Stadium&#58;</span> {{object.stadium}}</li>
+				<li><span>National Titles&#58;</span> {{object.nationaltitles}}</li>
+				<li><span>Coach&#58;</span> {{object.coach}}</li>
+				<li><span>Last Season Results&#58;</span> {{object.record}}</li>
+				<li><span>Last Season Bowl Game&#58;</span> {{object.bowlgame}}</li>
+				<li><span>This Season First Game&#58;</span> {{object.firstgame}}</li>
+			</ul>
+
+			<!-- <button class="btnPrimary">Add</button> -->
+		</div>
+	</div>
+</div>

@@ -1,0 +1,167 @@
+[
+	{
+		"id": "ACC",
+		"school": "FSU",
+		"nickname": "Seminoles",
+		"stadium": "Doak Campbell Stadium (82,300)",
+		"coach": "Jimbo Fisher (68-14)",
+		"record": "10-3",
+		"bowlgame": "Lost 38-24 to Houston in the Chick-fil-A Peach Bowl.",
+		"nationaltitles": "3",
+		"firstgame": "vs Ole Miss (game in Orlando)"
+	},
+	{
+		"id": "ACC",
+		"school": "Clemson",
+		"nickname": "Tigers",
+		"stadium": "Memorial Stadium (81,500)",
+		"coach": "Dabo Swinney (75-27)",
+		"record": "14-1",
+		"bowlgame": "Won 37-17 over Oklahoma in the College Football Playoff Semifinal at the Capital One Orange Bowl. Lost 45-40 to Alabama in the College Football Playoff National Championship.",
+		"nationaltitles": "1",
+		"firstgame": "@ Auburn"
+	},
+	{
+		"id": "ACC",
+		"school": "North Carolina",
+		"nickname": "Tarheels",
+		"stadium": "Kenan Memorial Stadium (63,000)",
+		"coach": "Larry Fedora (32-20)",
+		"record": "11-3",
+		"bowlgame": "Lost 49-38 to Baylor in the Russell Athletic Bowl.",
+		"nationaltitles": "0",
+		"firstgame": "vs Georgia (game in Atlanta)"
+	},
+	{
+		"id": "Big 12",
+		"school": "Oklahoma",
+		"nickname": "Sooners",
+		"stadium": "Gaylord Family Oklahoma Memorial Stadium (82,112)",
+		"coach": "Bob Stoops (179-46)",
+		"record": "11-2",
+		"bowlgame": "Lost 37-17 to Clemson in the College Football Playoff Semifinal at the Capital One Orange Bowl.",
+		"nationaltitles": "7",
+		"firstgame": "vs Houston (game at NRG Stadium in Houston)"
+	},
+	{
+		"id": "Big 12",
+		"school": "TCU",
+		"nickname": "Horned Frogs",
+		"stadium": "Amon G. Carter Stadium (45,000)",
+		"coach": "Gary Patterson (143-47)",
+		"record": "11-2",
+		"bowlgame": "Won 47-41 (3 OT) over Oregon in the Valero Alamo Bowl.",
+		"nationaltitles": "2",
+		"firstgame": "vs South Dakota St."
+	},
+	{
+		"id": "Big 12",
+		"school": "Oklahoma St.",
+		"nickname": "Cowboys",
+		"stadium": "Boone Pickens Stadium (60,218)",
+		"coach": "Mike Gundy (94-47)",
+		"record": "10-3",
+		"bowlgame": "Lost 48-20 to Ole Miss in the Allstate Sugar Bowl.",
+		"nationaltitles": "0",
+		"firstgame": "vs SE Louisiana"
+	},
+	{
+		"id": "Big Ten",
+		"school": "Michigan St.",
+		"nickname": "Spartans",
+		"stadium": "Spartan Stadium (75,005)",
+		"coach": "Mark Dantonio (87-33)",
+		"record": "12-2",
+		"bowlgame": "Lost 38-0 to Alabama in the College Football Playoff Semifinal at the Goodyear Cotton Bowl Classic.",
+		"nationaltitles": "6",
+		"firstgame": "vs Furman"
+	},
+	{
+		"id": "Big Ten",
+		"school": "Iowa",
+		"nickname": "Hawkeyes",
+		"stadium": "Kinnick Stadium (70,585)",
+		"coach": "Kirk Ferentz (127-87)",
+		"record": "12-2",
+		"bowlgame": "Lost 45-16 to Stanford in the Rose Bowl Game presented by Northwestern Mutual.",
+		"nationaltitles": "1",
+		"firstgame": "vs Miami (OH)"
+	},
+	{
+		"id": "Big Ten",
+		"school": "Ohio St.",
+		"nickname": "Buckeyes",
+		"stadium": "Ohio Stadium (104,944)",
+		"coach": "Urban Meyer (50-4)",
+		"record": "12-1",
+		"bowlgame": "Won 44-28 over Notre Dame in the Battlefrog Fiesta Bowl.",
+		"nationaltitles": "8",
+		"firstgame": "vs Bowling Green"
+	},
+	{
+		"id": "Pac-12",
+		"school": "Oregon",
+		"nickname": "Ducks",
+		"stadium": "Autzen Stadium (54,000)",
+		"coach": "Mark Helfrich (33-8)",
+		"record": "9-4",
+		"bowlgame": "Lost 47-41 (3 OT) to TCU in the Valero Alamo Bowl.",
+		"nationaltitles": "0",
+		"firstgame": "vs UC-Davis"
+	},
+	{
+		"id": "Pac-12",
+		"school": "UCLA",
+		"nickname": "Bruins",
+		"stadium": "Rose Bowl (92,542)",
+		"coach": "Jim Mora (29-11)",
+		"record": "8-5",
+		"bowlgame": "Lost 37-29 to Nebraska in the Foster Farms Bowl.",
+		"nationaltitles": "1",
+		"firstgame": "@ Texas A&M"
+	},
+	{
+		"id": "Pac-12",
+		"school": "USC",
+		"nickname": "Trojans",
+		"stadium": "Los Angeles Memorial Coliseum (93,607)",
+		"coach": "Clay Helton (6-4)",
+		"record": "8-6",
+		"bowlgame": "Lost 23-21 to Wisconsin in the National Funding Holiday Bowl.",
+		"nationaltitles": "11",
+		"firstgame": "vs Alabama (game in Dallas)"
+	},
+	{
+		"id": "SEC",
+		"school": "Alabama",
+		"nickname": "Crimson Tide",
+		"stadium": "Bryant-Denny Stadium (101,821)",
+		"coach": "Nick Saban (100-18)",
+		"record": "14-1",
+		"bowlgame": "Won 45-40 over Clemson in the College Football Playoff National Championship. Won 38-0 over Michigan State in the College Football Playoff Semifinal at the Goodyear Cotton Bowl Classic.",
+		"nationaltitles": "16",
+		"firstgame": "vs USC (game in Dallas)"
+	},
+	{
+		"id": "SEC",
+		"school": "Auburn",
+		"nickname": "Tigers",
+		"stadium": "Jordan-Hare Stadium (87,451)",
+		"coach": "Gus Malzahn (27-13)",
+		"record": "7-6",
+		"bowlgame": "Won 31-10 over Memphis in the Birmingham Bowl.",
+		"nationaltitles": "2",
+		"firstgame": "vs Clemson"
+	},
+	{
+		"id": "SEC",
+		"school": "Ole Miss",
+		"nickname": "Rebels",
+		"stadium": "Vaught-Hemingway Stadium (60,580)",
+		"coach": "Hugh Freeze (34-18)",
+		"record": "10-3",
+		"bowlgame": "Won 48-20 over Oklahoma St. in the Allstate Sugar Bowl.",
+		"nationaltitles": "3",
+		"firstgame": "vs FSU (game in Orlando)"
+	}
+]

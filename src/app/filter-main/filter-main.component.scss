@@ -1,0 +1,100 @@
+
+.heroWrap {
+	background: #E74C3C;
+	text-align: center;
+	padding: 70px 0;
+
+	@media (min-width: 360px) {
+		padding: 130px 0;
+	}
+
+	@media (min-width: 650px) {
+		padding: 200px 0;
+	}
+
+	@media (min-width: 1200px) {
+		padding: 240px 0;
+	}
+}
+
+.summaryWrap {
+	width: 100%;
+	position: relative;
+
+	@media (min-width: 650px)  {
+
+		&::before {
+			content: '';
+			height: 50%;
+			display: block;
+			background: #fff;
+			position: absolute;
+			top: 0;
+			left: 0;
+			right: 0;
+			-webkit-transform: skewY(-1.5deg);
+			-moz-transform: skewY(-1.5deg);
+			transform: skewY(-1.5deg);
+			-webkit-transform-origin: 0 0;
+			-moz-transform-origin: 0 0;
+			transform-origin: 0 0;
+		}
+	}
+}
+
+.innerWrap {
+	width: 90%;
+	padding: 30px 0;
+	margin: 0 5%;
+}
+
+h2, select, option, .filter {
+	position: relative;
+	z-index: 1;
+}
+
+h1, h2 {
+	color: #eee;
+}
+
+h1 {
+	margin-top: 0;
+}
+
+.summaryWrap h2, .filter {
+	color: #2980B9;
+}
+
+.filter {
+	padding-bottom: 30px;
+}
+
+ select, option {
+    width: 200px;
+    font-weight: 400;
+    color: #333;
+    padding: 2px 4px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+select {
+    background: url('../img/carrat_down@2x.png') 95% 50% no-repeat;
+	background-color: #fff;
+    -webkit-background-size: 8px 5px;
+    background-size: 8px 5px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    margin-right: 15px;
+}
+
+select:focus {
+    outline: none;
+}
+
+option {
+    font-size: 14px;
+}

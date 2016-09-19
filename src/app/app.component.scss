@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700);
+
+.wrap {
+    width: 100%;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #333;
+	position: relative;
+	z-index: 1;
+}
+
+h1, h2 {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-weight: 700;
+}
+
+h1 {
+    font-size: 32px;
+    margin-bottom: 40px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+.btnPrimary {
+	font-size: 16px;
+	text-align: center;
+}
